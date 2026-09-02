@@ -1,0 +1,23 @@
+packages/wgsl/tests/passthrough.test.ts
+  s_0c12b3e79d6119::t_e543792d2b8fdc 20-25
+  s_0c12b3e79d6119::t_e3b5c9e9699b0d 15-19,26-43
+packages/wgsl/src/compile.ts
+  s_0c12b3e79d6119::t_2c8a2ba2cf6e96 39-41,44
+  s_0c12b3e79d6119::t_5bb9da5ecf03b3 36-38,45,49-52,54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "72771e8db970363cd9101f6708fe0a4eb339c6f2",
+  "prompts": {},
+  "sessions": {
+    "s_0c12b3e79d6119": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a8a37ebc-0d7d-45a8-9e42-8fb1f16139c0",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
